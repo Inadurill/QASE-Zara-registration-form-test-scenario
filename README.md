@@ -12,3 +12,7 @@ I have used it to create test case scenario along with a mind map for a better v
 ## Test cases mind map
 
 [Mind map](https://github.com/Inadurill/Zara-registration-form-test-scenario/blob/main/User%20registration%20test%20scenario%20mind%20map.jpg)
+
+## Test run report
+
+[Report] 
