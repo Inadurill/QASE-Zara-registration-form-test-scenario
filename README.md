@@ -15,4 +15,4 @@ I have used it to create test case scenario along with a mind map for a better v
 
 ## Test run report
 
-[Report](https://github.com/Inadurill/Zara-registration-form-test-scenario/blob/main/Zara%20registration%20form%20test%20scenario.pdf)
+[Report](https://github.com/Inadurill/Zara-registration-form-test-scenario/blob/main/Zara%20registration%20form%20test%20run.pdf)
