@@ -1,9 +1,5 @@
-# Zara registration form test case scenario
-A set of test cases on registration form: https://www.zara.com/pl/pl/logon
-
-## Qase
-Qase is a cloud test case management system for both Developers and Testers. 
-I have used it to create test case scenario along with a mind map for a better visual representation.
+# [QASE] Zara registration form test case scenario
+A set of test cases on registration form: https://www.zara.com/pl/pl/logon using Qase
 
 ## Test cases
 
